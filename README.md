@@ -44,7 +44,7 @@ end of the application and styled by
 
 ## Back-end part
 
-*https://github.com/hurylov/delivery_api*
+*https://github.com/hurylov/delivery-food-API *
 
 To work locally, create a .env file and specify the necessary environment
 variables in it (following the example in .env.expample).
